@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace BobboNet.MultiLock
+namespace BobboNet
 {
     // Class that allows for something to be locked & unlocked.
     //      If there are any keys at all on this lock, that means it will be considered locked.
